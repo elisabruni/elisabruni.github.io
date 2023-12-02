@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-In this <a href="https://bsssjournals-onlinelibrary-wiley-com.insu.bib.cnrs.fr/doi/10.1111/ejss.13330">paper</a>, we use a multi-model ensemble to quantify the C inputs needed to reach a 4‰ target in 16 European cropland experiments. We find that multi-model predictions show high uncertainty, even when models are calibrated to fit observed soil organic carbon stocks.
+In this <a href="https://doi-org.insu.bib.cnrs.fr/10.1111/ejss.13330">paper</a>, we use a multi-model ensemble to quantify the C inputs needed to reach a 4‰ target in 16 European cropland experiments. We find that multi-model predictions show high uncertainty, even when models are calibrated to fit observed soil organic carbon stocks.
 
 ***
 
