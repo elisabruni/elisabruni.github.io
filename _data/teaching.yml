@@ -1,0 +1,47 @@
+- title: Courses
+  type: time_table
+  contents:
+    - title: Numerical modeling
+      institution: AgroParisTech (Paris, France)
+      year: 2019-2024
+      description:
+        - Learning to develop and code numerical models to simulate ecosystem dynamics.
+    - title: Soil organic matter modeling
+      institution: Universidade Federal Rural de Rio de Janeiro (RJ, Brazil)
+      year: 2022-2023
+      description:
+        - Introduction to soil carbon modeling.
+    - title: Understanding and managing soil organic matter
+      institution: AgroParisTech (Paris, France)
+      year: 2020-2023
+      description:
+        - Understanding and managing soil organic matter for ecosystem services delivery.
+    - title: Modeling
+      institution: AgroParisTech (Paris, France)
+      year: 2021-2022
+      description:
+        - Modeling soils and ecosystem services.
+    - title: Internship tools
+      institution: AgroParisTech (Paris, France)
+      year: 2020-2021
+      description:
+        - Learning tools for master's internship.
+    - title: Bioclimatology
+      institution: AgroParisTech (Paris, France)
+      year: 2020
+      description:
+        - Underpinning climate and ecossytem interactions.
+    - title: Industrial ecology
+      institution: AgroParisTech (Paris, France)
+      year: 2019-2020
+      description:
+        - Estimating environmental constraints for industrial systems.
+
+- title: MOOC
+  type: time_table
+  contents:
+    - title: Soil and climate
+      institution: Fun MOOC
+      year: 2021
+      description:
+        - Community manager for the course Soil and climate.

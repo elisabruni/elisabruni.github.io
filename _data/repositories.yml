@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
-
+  - elisabruni
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - elisabruni/Century_inverted_4per1000
+  - elisabruni/Holisoils-multimodel
+  - elisabruni/Multimodel_interface
+  - elisabruni/SoilC
+  - elisabruni/Europe_4p1000
+  - elisabruni/elisabruni.github.io
