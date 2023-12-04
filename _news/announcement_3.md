@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-12-02 15:59:00-0400
 title: New paper out using a multi-model ensemble to quantify C input requirements to increase soil carbon stocks by 4‰ per year
+date: 2022-12-02 15:59:00-0400
 inline: false
 related_posts: false
 ---
