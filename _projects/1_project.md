@@ -1,37 +1,50 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: 4 per 1000
+description: Reaching the 4‰ objective
+img: assets/img/4per1000.jpeg
 importance: 1
 category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+The International <a href="https://4p1000.org/?lang=en">"4 per 1000"</a> Initiative was launched in 2021 to promote sustainable agricultural practices that enhance soil organic carbon stocks. During my PhD, I used soil carbon models to assess whether the initiative’s theoretical goal—a 4‰ annual increase in soil organic carbon stocks—was feasible at the European scale.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Main findinds from my PhD work can be found in a [series of publications](#image-gallery) and in my <a href="https://pastel.hal.science/tel-03650802/">PhD manuscript</a>, which is also summarized in this <a href="https://holisoils.eu/is-it-feasible-to-increase-soil-carbon-stocks-by-4-per-1000-per-year/">Holisoils blog post</a>.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+<div id="image-gallery" class="row">
+    <div class="col-lg-3 col-md-3 col-sm-12 mt-3">
+        <a href="https://doi.org/10.5194/bg-18-3981-2021" target="_blank">
+            <div class="ratio ratio-4x3">
+                {% include figure.liquid loading="eager" path="assets/img/4p1000_Century.png" title="example image" class="img-fluid rounded" %}
+            </div>
+        </a>
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-lg-3 col-md-3 col-sm-12 mt-3">
+        <a href="https://doi.org/10.3389/fenvs.2022.824724" target="_blank">
+            <div class="ratio ratio-4x3">
+                {% include figure.liquid loading="eager" path="assets/img/defining_targets.png" title="example image" class="img-fluid rounded" %}
+            </div>
+        </a>
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        <div class="col-lg-3 col-md-3 col-sm-12 mt-3">
+        <a href="https://doi.org/10.1111/ejss.13330" target="_blank">
+            <div class="ratio ratio-4x3">
+                {% include figure.liquid loading="eager" path="assets/img/4per1000_mme.jpg" title="example image" class="img-fluid rounded" %}
+            </div>
+        </a>
+    </div>
+    <div class="col-lg-3 col-md-3 col-sm-12 mt-3">
+        <a href="https://doi.org/10.1016/j.scitotenv.2024.176525" target="_blank">
+            <div class="ratio ratio-4x3">
+                {% include figure.liquid loading="eager" path="assets/img/EU_cropland.png" title="example image" class="img-fluid rounded" %}
+            </div>
+        </a>
     </div>
 </div>
+
+
 <div class="caption">
     Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
 </div>
