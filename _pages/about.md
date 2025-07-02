@@ -29,6 +29,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a postdoctoral fellow at Ecole Normale Superieure (ENS), Paris (France). I study the dynamics of biogeochemical cycles with mathematical models. 
+I am a postdoctoral fellow at Ecole Normale Superieure de Paris (ENS, France). I study the dynamics of biogeochemical cycles with mathematical models. 
 
 I am interested in understanding the effects of climate and land management on the evolution of carbon and nutrient dynamics in soils.
