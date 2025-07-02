@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: List of publications of conference proceedings
+description: List of publications and conference proceedings
 nav: true
 nav_order: 2
 ---
