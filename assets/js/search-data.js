@@ -11,14 +11,14 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "publications",
-          description: "List of publications of conference proceedings",
+          description: "List of publications and conference proceedings",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "Some of the projects I am working on.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -405,14 +405,14 @@ ninja.data = [{
           description: "Reaching the 4‰ objective",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-european-forests",
+          title: 'European forests',
+          description: "HoliSoils project",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-mediterranean-drylands",
+          title: 'Mediterranean drylands',
+          description: "SHARInG-MeD project",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
