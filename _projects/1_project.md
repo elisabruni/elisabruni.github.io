@@ -21,7 +21,7 @@ Main findinds from my PhD work can be found in a [series of publications](#image
                     {% include figure.liquid loading="eager" path="assets/img/4p1000_Century.png" title="example image" class="img-fluid rounded" %}
                 </div>
             </a>
-        <figcaption class="text-center mt-2">Bruni et al. (2021) – 4p1000 target with CENTURY model</figcaption>
+        <figcaption class="text-center mt-2">Bruni et al. (2021) – C input requirements to reach the 4‰ target in long-term cropland experiments</figcaption>
         </figure>
     </div> 
     <div class="col-lg-6 col-md-6 col-sm-12 mt-3">
@@ -31,7 +31,7 @@ Main findinds from my PhD work can be found in a [series of publications](#image
                 {% include figure.liquid loading="eager" path="assets/img/defining_targets.png" title="example image" class="img-fluid rounded" %}
                 </div>
             </a>
-        <figcaption class="text-center mt-2">Bruni et al. (2022) – Defining SOC targets under climate mitigation</figcaption>
+        <figcaption class="text-center mt-2">Bruni et al. (2022) – Annual SOC stock increases in different cropland experiments and target reached according to target definitions</figcaption>
         </figure>
     </div>
     <div class="col-lg-6 col-md-6 col-sm-12 mt-3">
@@ -41,7 +41,7 @@ Main findinds from my PhD work can be found in a [series of publications](#image
                     {% include figure.liquid loading="eager" path="assets/img/4per1000_mme.jpg" title="example image" class="img-fluid rounded" %}
                 </div>
             </a>
-            <figcaption class="text-center mt-2">Bruni et al. (2023) – Multi-model ensemble on SOC stocks</figcaption>
+            <figcaption class="text-center mt-2">Bruni et al. (2022) – Uncertainties in C input requirements to reach the 4‰ target according to different SOC model predictions</figcaption>
         </figure>
     </div>
     <div class="col-lg-6 col-md-6 col-sm-12 mt-3">
@@ -51,7 +51,7 @@ Main findinds from my PhD work can be found in a [series of publications](#image
                     {% include figure.liquid loading="eager" path="assets/img/EU_cropland.png" title="example image" class="img-fluid rounded" %}
                 </div>
             </a>
-            <figcaption class="text-center mt-2">Bruni et al. (2024) – SOC trends in EU croplands</figcaption>
+            <figcaption class="text-center mt-2">Bruni et al. (2024) – Distribution of the C input requirements to reach the 4‰ target at the European cropland scale</figcaption>
         </figure>
     </div>
 </div>
