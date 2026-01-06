@@ -6,7 +6,7 @@ subtitle: Biogeochemical modeler
 
 profile:
   align: right
-  image: elisa_pic.jpg
+  image: elisa_pic_maglione.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <div style="font-size:0.85em; line-height:1.2em;">
