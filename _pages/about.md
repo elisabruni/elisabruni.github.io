@@ -43,3 +43,5 @@ I am particularly interested in mechanisms regulating soil organic matter turnov
 <p style="font-size:1.1em; text-align:justify;">
 I am passionate about linking <b>theory and data</b>, and about communicating complex systems science in accessible ways through talks, collaborations, and teaching.
 </p>
+
+[Download all my publications](assets/pdf/publications.zip){: download }
